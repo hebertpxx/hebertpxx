@@ -27,8 +27,8 @@
 | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hebertpxx&show_icons=true&theme=dark&locale=en&layout=compact" alt="hebertpxx" /> | <img src="https://github-readme-stats.vercel.app/api?username=hebertpxx&show_icons=true&theme=dark&locale=en" alt="hebertpxx" /> |
 | --- | --- |
 
-| <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hebertpxx&" alt="hebertpxx" /> | <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hebertpxx" alt="hebertpxx" /></a> |
-| --- | --- |
+| <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hebertpxx&" alt="hebertpxx" /> | <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hebertpxx&title=Commits,Repositories,Issues&theme=chalk" alt="hebertpxx"/></a> |
+| --- | --- | 
 
 <br>
 
