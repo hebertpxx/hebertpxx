@@ -53,7 +53,9 @@
 <br>
 
 | <img src="https://komarev.com/ghpvc/?username=hebertpxx&label=Profile%20views&color=0e75b6&style=flat" alt="hebertpxx" /> | <a href="https://twitter.com/pixopexu" target="blank"><img src="https://img.shields.io/twitter/follow/pixopexu?logo=twitter&style=for-the-badge" alt="pixopexu" /></a> |
-| --- | --- | 
+| --- | --- |
+
+![snake animation](https://github.com/cadudevemdobro/cadudevemdobro/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Sem comentários por ora
