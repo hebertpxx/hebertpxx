@@ -48,6 +48,7 @@
 <a href="https://fb.com/hebert.desouzavinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hebert.desouzavinha" height="30" width="40" /></a>
 <a href="https://instagram.com/roberto_hebert_sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roberto_hebert_sv" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://www.frontendmentor.io/profile/hebertpxx" target="blank"><img align="center" src="https://www.frontendmentor.io/static/images/logo-desktop.svg"></a>
 </p>
 
 <br>
