@@ -4,9 +4,9 @@
 
 <br>
 
-- 🔭 Estou trabalhando na loja virtual [Monte Store Modas](https://montestoremodas.com)
+- 🔭 Estou trabalhando na loja virtual Pink Mavi Modas
 
-- 🌱 Atualmente estou aprendendo sobre [WordPress](https://github.com/WordPress)
+- 🌱 Atualmente estou aprofundando meus conhecimentos em JavaScript
 
 - 👯 Pretendo colaborar com projetos Open Source como WordPress e [Moodle](https://github.com/moodle)
 
@@ -14,11 +14,9 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/hebertpxx](https://github.com/hebertpxx)
 
-- 📝 Escrevo regularmente no site [https://montestoremodas.com/](https://montestoremodas.com/)
+- 💬 Pergunte-me sobre **HTML, CSS e JavaScript**
 
-- 💬 Pergunte-me sobre **HTML e CSS**
-
-- 📫 Contato: **hebert.souzavinha@gmail.com**
+- 📫 Contato: **hebert.souzavinha@live.com**
 
 - ⚡ Um fato sobre mim: **Estou sempre buscando aperfeiçoamento**
 
