@@ -4,11 +4,11 @@
 
 <br>
 
-- 🔭 Estou trabalhando na loja virtual Pink Mavi Modas
+- 🔭 Estou trabalhando na StartUp [Bebidas Online](https://bebidas.app) como Mobile Front End Developer
 
-- 🌱 Atualmente estou aprofundando meus conhecimentos em JavaScript
+- 🌱 Atualmente estou aprofundando meus conhecimentos em JavaScript e React Native
 
-- 👯 Pretendo colaborar com projetos Open Source como WordPress e [Moodle](https://github.com/moodle)
+- 👯 Pretendo futuramente voltar a estudar RPA (Robotic Process Automation)
 
 - 🤝 Preciso de ajuda no projeto [RepApp](https://github.com/hebertpxx/REPapp)
 
