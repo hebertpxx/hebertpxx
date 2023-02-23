@@ -4,7 +4,7 @@
 
 <br>
 
-- 🔭 Estou trabalhando na StartUp [Pink Mavi Modas](https://pinkmavimodas.lojavirtualnuvem.com.br/) como Web Front End Developer
+- 🔭 Estou trabalhando na empresa [Pink Mavi Modas](https://pinkmavimodas.lojavirtualnuvem.com.br/) como Web Front End Developer
 
 - 🌱 Atualmente estou aprofundando meus conhecimentos em JavaScript e React Native
 
