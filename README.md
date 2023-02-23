@@ -4,7 +4,7 @@
 
 <br>
 
-- 🔭 Estou trabalhando na StartUp [Bebidas Online](https://bebidas.app) como Mobile Front End Developer
+- 🔭 Estou trabalhando na StartUp [Pink Mavi Modas](https://pinkmavimodas.lojavirtualnuvem.com.br/) como Web Front End Developer
 
 - 🌱 Atualmente estou aprofundando meus conhecimentos em JavaScript e React Native
 
