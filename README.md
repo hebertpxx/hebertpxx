@@ -4,13 +4,11 @@
 
 <br>
 
-- 🔭 Estou trabalhando na empresa [Pink Mavi Modas](https://pinkmavimodas.lojavirtualnuvem.com.br/) como Web Front End Developer
+- 🔭 Estou trabalhando na empresa [Pink Mavi Modas](https://pinkmavimodas.com/) como Web Front End Developer.
 
-- 🌱 Atualmente estou aprofundando meus conhecimentos em JavaScript e React Native
+- 🌱 Atualmente estou aprofundando meus conhecimentos em negócios.
 
-- 👯 Pretendo futuramente voltar a estudar RPA (Robotic Process Automation)
-
-- 🤝 Preciso de ajuda no projeto [RepApp](https://github.com/hebertpxx/REPapp)
+- 👯 Pretendo futuramente voltar a estudar RPA (Robotic Process Automation).
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/hebertpxx](https://github.com/hebertpxx)
 
